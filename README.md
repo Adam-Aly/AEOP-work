@@ -2,9 +2,9 @@
 All my work for the AEOP internship
 # Introduction to Python tutorial Intro_python.ipynb
 The code that I wrote following an introductory video to python that covers the basics.
-'''
+```
 https://www.youtube.com/watch?v=rfscVS0vtbw
-'''
+```
 ### Covered topics
 - drawing a shape
 - Variables & data types
